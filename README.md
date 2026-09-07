@@ -119,4 +119,3 @@ Monthly analysis highlights fluctuations in sales throughout the year and helps 
 - Investigate regions and sub-categories with lower profitability.
 - Review the impact of discounts on profit margins.
 - Monitor monthly sales trends to improve planning and forecasting.
-- 
